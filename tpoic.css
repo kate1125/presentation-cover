@@ -51,7 +51,7 @@ table {
     height: auto;
 }
 .topic h1{
-    font-family: cursive;
+    font-family: Comic Sans MS, Comic Sans, cursive;
     font-size: 60px;
     color: transparent;
     background-image: linear-gradient(45deg, #F37335, #FDC830 80%);
@@ -62,6 +62,7 @@ table {
     
 }
 .topic p{
+    font-family: Bradley Hand, cursive;
     font-size: 20px;
     color: black;
     text-align: center;
